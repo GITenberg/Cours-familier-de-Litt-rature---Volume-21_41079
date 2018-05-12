@@ -1,0 +1,39 @@
+_repo: Cours-familier-de-Litt-rature---Volume-21_41079
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lamartine, Alphonse de
+    aliases:
+    - Lamartine de Prat, Alphonse-Marie-Louis de
+    - De Lamartine, Alphonse
+    - Lamartine, Alphonse Marie Louis de
+    birthdate: 1790
+    deathdate: 1869
+    gutenberg_agent_id: '4781'
+    url: http://www.gutenberg.org/2009/agents/4781
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Alphonse_de_Lamartine
+    - http://en.wikipedia.org/wiki/Alphonse_de_Lamartine
+description: ''
+gutenberg_bookshelf:
+- France
+- FR Littérature
+gutenberg_issued: '2012-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41079'
+  lccn: '32003460'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French literature -- History and criticism'
+- !lcsh 'Literature -- History and criticism'
+- !lcc 'PN'
+- !lcsh 'France -- Politics and government -- 1789-1900'
+title: Cours familier de Littérature - Volume 21
+url: http://www.gutenberg.org/ebooks/41079
